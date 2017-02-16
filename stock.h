@@ -1,3 +1,5 @@
+//header class
+
 #ifndef STOCK_H
 #define STOCK_H
 #include "transaction.h"
